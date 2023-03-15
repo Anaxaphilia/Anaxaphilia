@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" allign="center">
- <img src="https://c4.wallpaperflare.com/wallpaper/247/469/315/shigatsu-wa-kimi-no-uso-miyazono-kaori-arima-kousei-wallpaper-preview.jpg" width="800" height="400"/>
+ <img src="https://c4.wallpaperflare.com/wallpaper/247/469/315/shigatsu-wa-kimi-no-uso-miyazono-kaori-arima-kousei-wallpaper-preview.jpg" width="750" height="400"/>
  </div>
